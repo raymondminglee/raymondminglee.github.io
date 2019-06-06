@@ -8,15 +8,15 @@
 ## Project Works
 
 ### Acoustics
-[More on Acoustics Project](https://github.com/raymondminglee)
+[More](https://github.com/raymondminglee)
 <br>
 
 ### Data Science and ML
-[More on Data Science Project](https://github.com/raymondminglee)
+[More](https://github.com/raymondminglee)
 <br>
 
 ### Engineering
-[More on Data Science Project](https://github.com/raymondminglee)
+[More](https://github.com/raymondminglee)
 
 
 ---
