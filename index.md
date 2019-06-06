@@ -43,7 +43,7 @@ Jan 2017 – Dec 2018
 
 ## Education
 ### The Coooper Union for The Advancement of Science and Art, *New York*
-* Master of Engineering, Major: Mechanical Engineering, GPA:4.00&nbsp; &nbsp; *Sep 2018 – May 2020*
+* Master of Engineering, Major: Mechanical Engineering, GPA:4.00&nbsp; &nbsp; &nbsp; *Sep 2018 – May 2020*
 * Bachelor of Engineering, Major: Mechanical Engineering, GPA: 3.33&nbsp; &nbsp; *Sep 2014 – May 2018*
 
 ---
