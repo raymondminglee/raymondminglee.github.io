@@ -8,14 +8,22 @@
 ## Project Works
 
 ### Acoustics
-<br>
+1. ML HRTF
+2. NEST + m modeling
+3. Source seperation and localization
+4. Field Mic
+5. Acoustical Script/ DSP, Effect
 <br>
 
 ### Data Science and ML
-<br>
+1. City Harvest
+2. ML HRTF
+3. AL Pioneer
 <br>
 
 ### Engineering
+1. CFD & CAE?
+2. Invention Factory
 
 ---
 
