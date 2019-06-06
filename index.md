@@ -8,7 +8,7 @@
 ## Project Works
 
 ### Acoustics
-[More](https://github.com/raymondminglee)
+[More](https://raymondminglee.github.io/Acoustic/)
 <br>
 
 ### Data Science and ML
