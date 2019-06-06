@@ -12,7 +12,7 @@
 <br>
 
 ### Data Science and ML
-[More](https://raymondminglee.github.io/DataScience)
+[More](https://raymondminglee.github.io/DataScience/)
 <br>
 
 ### Engineering
