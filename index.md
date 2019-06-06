@@ -5,18 +5,25 @@
 
 ---
 
-## Work Experiences
-
----
-
 ## Project Works
 
 ---
 
-### Education
+## Work Experiences
+
+### Summer Acoustic Consultant
+*Longman Lindsey*
+### Summer Intern
+*Transcendence Captial Management*
+### Lab Technician
+*The Cooper Union*
 
 ---
 
-### Skills
+## Education
+
+---
+
+## Skills
 
 
