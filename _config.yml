@@ -1,4 +1,4 @@
-logo: /logo.png
+logo: ./logo.png
 description: > 
   Engineering student focusing on Acoustics and Audio Engineering with a demonstrated history of research-based work in spatial audio processing, 
   Head-Related Transfer Function (HRTF) and Machine Learning on the audio signal. Skilled in Python, 
