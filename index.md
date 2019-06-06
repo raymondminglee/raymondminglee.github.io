@@ -8,22 +8,16 @@
 ## Project Works
 
 ### Acoustics
-#### 1. ML HRTF
-#### 2. NEST + m modeling
-#### 3. Source seperation and localization
-#### 4. Field Mic
-#### 5. Acoustical Script/ DSP, Effect
+[More on Acoustics Project](https://github.com/raymondminglee)
 <br>
 
 ### Data Science and ML
-#### 1. City Harvest
-#### 2. ML HRTF
-#### 3. AL Pioneer
+[More on Data Science Project](https://github.com/raymondminglee)
 <br>
 
 ### Engineering
-#### 1. CFD & CAE?
-#### 2. Invention Factory
+[More on Data Science Project](https://github.com/raymondminglee)
+
 
 ---
 
@@ -31,14 +25,11 @@
 
 ### Summer Acoustic Consultant, *Lonmang Lindsey, New York*
 <br>
-<br>
 
 ### Summer Intern, *Transcendence Captial Management, New York*
 <br>
-<br>
 
 ### Lab Technician, *The Cooper Union, New York*
-<br>
 <br>
 
 ---
