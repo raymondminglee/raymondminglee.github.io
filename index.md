@@ -9,7 +9,9 @@
 
 ### Acoustics
 -[HRTF Personalization using ML](https://raymondminglee.github.io/Acoustic/)
+<br>
 -[NEST+m Acoustic Consulting](https://raymondminglee.github.io/Acoustic/)
+<br>
 -[Field Microphone](https://raymondminglee.github.io/Acoustic/)
 <br>
 
