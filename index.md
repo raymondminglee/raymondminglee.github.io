@@ -8,7 +8,9 @@
 ## Project Works
 
 ### Acoustics
-[More](https://raymondminglee.github.io/Acoustic/)
+-[HRTF Personalization using ML](https://raymondminglee.github.io/Acoustic/)
+-[NEST+m Acoustic Consulting](https://raymondminglee.github.io/Acoustic/)
+-[Field Microphone](https://raymondminglee.github.io/Acoustic/)
 <br>
 
 ### Data Science and ML
