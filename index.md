@@ -14,14 +14,18 @@
 <br>
 -[Field Microphone](https://raymondminglee.github.io/Acoustic/)
 <br>
+-[Sound Processing Techniques](https://raymondminglee.github.io/Acoustic/)
 
 ### Data Science and ML
-[More](https://raymondminglee.github.io/DataScience/)
+-[NYC Food Inecurity](https://raymondminglee.github.io/DataScience/)
+<br>
+-[AI Pioneer](https://raymondminglee.github.io/DataScience/)
 <br>
 
 ### Engineering
-[More](https://raymondminglee.github.io/Engineering/)
-
+-[CFD/CAE](https://raymondminglee.github.io/Engineering/)
+<br>
+-[Invention Factory](https://raymondminglee.github.io/Engineering/)
 
 ---
 
