@@ -9,12 +9,11 @@
 
 ### Acoustics
 -[HRTF Personalization using ML](https://raymondminglee.github.io/Acoustic/)
-<br>
-<br> 
+<br><br> 
 -[NEST+m Acoustic Consulting](https://raymondminglee.github.io/Acoustic-Consulting/)
-<br>
+<br><br>
 <img src="pic/NEST.PNG?raw=true"/>
-<br>
+<br><br>
 -[Acoustical DSP in Matlab](https://raymondminglee.github.io/Acoustic-Consulting/)
 <br>
 -[Field Microphone](https://raymondminglee.github.io/Acoustic/)
