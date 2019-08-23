@@ -10,9 +10,10 @@
 ### Acoustics
 -[HRTF Personalization using ML](https://raymondminglee.github.io/Acoustic/)
 <br>
-<img src="pic/NEST.PNG?raw=true"/>
 <br> 
 -[NEST+m Acoustic Consulting](https://raymondminglee.github.io/Acoustic-Consulting/)
+<br>
+<img src="pic/NEST.PNG?raw=true"/>
 <br>
 -[Acoustical DSP in Matlab](https://raymondminglee.github.io/Acoustic-Consulting/)
 <br>
