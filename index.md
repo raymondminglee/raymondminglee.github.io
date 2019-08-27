@@ -15,16 +15,26 @@
 <img src="pic/NEST.PNG?raw=true"/>
 <br><br>
 -[Acoustical DSP in Matlab](https://raymondminglee.github.io/Acoustic-Consulting/)
-<br>
+<br><br>
+<img src="pic/DSPMatlab.PNG?raw=true"/>
+<br><br>
 -[Field Microphone](https://raymondminglee.github.io/Acoustic/)
-<br>
+<br><br>
+<img src="pic/FieldMic.PNG?raw=true"/>
+<br><br>
 -[Sound Processing Techniques](https://raymondminglee.github.io/Acoustic/)
-
+<br><br>
+<img src="pic/SeniorPrj.PNG?raw=true"/>
+<br><br>
 ### Data Science and ML
 -[NYC Food Inecurity](https://raymondminglee.github.io/DataScience/)
-<br>
+<br><br>
+<img src="pic/CityHarvest.PNG?raw=true"/>
+<br><br>
 -[AI Pioneer](https://raymondminglee.github.io/DataScience/)
-<br>
+<br><br>
+<img src="pic/AIPioneer.PNG?raw=true"/>
+<br><br>
 
 ### Engineering
 -[CFD/CAE](https://raymondminglee.github.io/Engineering/)
