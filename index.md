@@ -14,7 +14,7 @@
 <br><br>
 <img src="pic/NEST.PNG?raw=true"/>
 <br><br>
--[Acoustical DSP in Matlab](https://raymondminglee.github.io/Acoustic-Consulting/)
+-[Acoustical DSP in Matlab](https://github.com/raymondminglee/DSP-in-MATLAB)
 <br><br>
 <img src="pic/DSPMatlab.PNG?raw=true"/>
 <br><br>
