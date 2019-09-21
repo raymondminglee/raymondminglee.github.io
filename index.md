@@ -27,11 +27,11 @@
 <img src="pic/SeniorPrj.PNG?raw=true"/>
 <br><br>
 ### Data Science and ML
--[NYC Food Inecurity](https://raymondminglee.github.io/DataScience/)
+-[NYC Food Inecurity](https://raymondminglee.github.io/CityHarvest-DataVisualization/)
 <br><br>
 <img src="pic/CityHarvest.PNG?raw=true"/>
 <br><br>
--[AI Pioneer](https://raymondminglee.github.io/DataScience/)
+-[AI Pioneer](https://raymondminglee.github.io/)
 <br><br>
 <img src="pic/AIPioneer.PNG?raw=true"/>
 <br><br>
