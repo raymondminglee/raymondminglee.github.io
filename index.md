@@ -64,7 +64,7 @@ Jan 2017 – Dec 2018
 
 ## Publication
 
-G. Zalles, Y. Kamel, I. Anderson, **M. Lee**, C. Neil, M. Henry, S. Cappiello, C. Mydlarz, M. Baglione, A. Roginska. A Low-Cost High Quality Ambisonic Microphone. * Proceesings of the 143 Audio Engineer Society Convention (AES). * Oct, 2017. Papaer Number 9857
+G. Zalles, Y. Kamel, I. Anderson, **M. Lee**, C. Neil, M. Henry, S. Cappiello, C. Mydlarz, M. Baglione, A. Roginska. A Low-Cost High Quality Ambisonic Microphone. *Proceesings of the 143 Audio Engineer Society Convention (AES).* Oct, 2017. Papaer Number 9857
 
 ---
 
@@ -74,10 +74,10 @@ Personalization of HRTF using anthropometric measurement by combining two machin
 ---
 
 ## Award and Hornor
-**Full Graduate Scholarship** New York, New York, 2018-present
-**Howard Silfin Mechanical Engineer Internship Award,** Mew York, New York, 2018 
-**Cooper Fund Scholar Award,** New York, New York, 2015
-**Half Tuition Scholarship & Merit Scholarship** New York, New York, 2014-2018 
+**Full Graduate Scholarship** New York, New York, 2018-present  
+**Howard Silfin Mechanical Engineer Internship Award,** Mew York, New York, 2018  
+**Cooper Fund Scholar Award,** New York, New York, 2015  
+**Half Tuition Scholarship & Merit Scholarship** New York, New York, 2014-2018   
 
 ---
 
