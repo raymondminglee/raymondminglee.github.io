@@ -74,7 +74,8 @@ Jan 2017 – Dec 2018
 ---
 
 ## Award and Hornor
-* **Full Graduate Scholarship,**  New York, New York, 2018-present  
+* **Full Graduate Scholarship,**  
+New York, New York, 2018-present  
 * **Howard Silfin Mechanical Engineer Internship Award,**Mew York, New York, 2018  
 * **Cooper Fund Scholar Award,**New York, New York, 2015  
 * **Half Tuition Scholarship & Merit Scholarship**New York, New York, 2014-2018   
