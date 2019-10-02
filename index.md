@@ -60,8 +60,8 @@ Jan 2017 – Dec 2018
   * Supervised the usage of The Cooper Union Acoustic Lab and gave presentation and tour to visitors
   * Managed lab equipment and provided necessary training for student in need
 <br>
----
 
+---
 ## Publication
 
 * G. Zalles, Y. Kamel, I. Anderson, **M. Lee**, C. Neil, M. Henry, S. Cappiello, C. Mydlarz, M. Baglione, A. Roginska. A Low-Cost High Quality Ambisonic Microphone. *Proceesings of the 143 Audio Engineer Society Convention (AES).* Oct, 2017. Papaer Number: 9857
