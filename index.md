@@ -55,7 +55,6 @@ June 2018 – Aug 2018
 
 * ### Lab Technician, *The Cooper Union, New York*
 Jan 2017 – Dec 2018
-
 <br>
 
 ---
