@@ -37,7 +37,7 @@
 <br><br>
 
 ### Engineering
--[Invention Factory](https://raymondminglee.github.io/Engineering/)
+-[Invention Factory](https://raymondminglee.github.io/Invention-Factory/)
 <br>
 -[Computer Aided Engineer](https://github.com/raymondminglee/raymondminglee.github.io/tree/master/Computer-Aided-Engineer)
 
