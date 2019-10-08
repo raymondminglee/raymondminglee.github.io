@@ -63,7 +63,8 @@ Jan 2017 – Dec 2018
 * ### Director of New Yok Chapter, *[Chinese Rainbow Network](https://www.crn.ngo/), New York*
 Jan 2017 – Present
   * Managed local online and offline businesses and other volunteers within the Greater New York City as part of an all\-volunteer run, non-profit LGBT organization for the Chinese LGBT community in the US  
-  * Organized CRN’s participants for the NYC Pride Parade and 10+ off\-line networking events in NYC per year
+  * Organized CRN’s participants for the NYC Pride Parade and 10+ off\-line networking events in NYC per year  
+  
   [<img src="pic/CRN.PNG?raw=true"/>](https://www.crn.ngo/)
 
 
