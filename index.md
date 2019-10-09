@@ -45,7 +45,7 @@
 <br><br>
 -[Computer Aided Engineer](https://github.com/raymondminglee/raymondminglee.github.io/tree/master/Computer-Aided-Engineer)
 <br><br>
-<img src="pic/CAE.PNG?raw=true"/>
+<img src="pic/CAE.png?raw=true"/>
 <br><br>
 
 
