@@ -33,7 +33,7 @@
 <br><br>
 <img src="pic/CityHarvest.PNG?raw=true"/>
 <br><br>
--[AI Pioneer](https://raymondminglee.github.io/)
+-[Other ML and Data Science Project](https://raymondminglee.github.io/Data-Science/)
 <br><br>
 <img src="pic/AIPioneer.PNG?raw=true"/>
 <br><br>
