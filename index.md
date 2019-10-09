@@ -9,6 +9,8 @@
 
 ### Acoustics
 -[HRTF Personalization using ML](https://raymondminglee.github.io/HRTF-ML/)
+<br><br>
+<img src="pic/HRTF.PNG?raw=true"/>
 <br><br> 
 -[NEST+m Acoustic Consulting](https://raymondminglee.github.io/Acoustic-Consulting/)
 <br><br>
@@ -38,9 +40,13 @@
 
 ### Engineering
 -[Invention Factory](https://raymondminglee.github.io/Invention-Factory/)
+<br><br>
 <img src="pic/pnt.PNG?raw=true"/>
 <br><br>
 -[Computer Aided Engineer](https://github.com/raymondminglee/raymondminglee.github.io/tree/master/Computer-Aided-Engineer)
+<br><br>
+<img src="pic/CAE.PNG?raw=true"/>
+<br><br>
 
 
 ---
