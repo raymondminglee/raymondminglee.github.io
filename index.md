@@ -106,8 +106,6 @@ New York, New York, 2014-2018
 * Master of Engineering, Major: Mechanical Engineering, GPA:4.00&nbsp; &nbsp; &nbsp; *Sep 2018 – May 2020*
 * Bachelor of Engineering, Major: Mechanical Engineering, GPA: 3.33&nbsp; &nbsp; *Sep 2014 – May 2018*
 
----
 
-## Skills
 
 
