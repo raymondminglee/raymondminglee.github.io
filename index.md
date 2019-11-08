@@ -28,8 +28,8 @@
 <br><br>
 <img src="pic/SeniorPrj.PNG?raw=true"/>
 <br><br>
-### Data Science and ML
--[NYC Food Inecurity](https://raymondminglee.github.io/CityHarvest-DataVisualization/)
+### Data Science and Machine Learning
+-[NYC Food Insecurity](https://raymondminglee.github.io/CityHarvest-DataVisualization/)
 <br><br>
 <img src="pic/CityHarvest.PNG?raw=true"/>
 <br><br>
@@ -53,11 +53,11 @@
 
 ## Work Experiences
 
-* ### Summer Acoustic Consultant, *Lonmang Lindsey, New York*
+* ### Summer Acoustic Consultant, *Longman Lindsey, New York*
 May 2019 - Aug 2019
 <br>
 
-* ### Summer Intern, *Transcendence Captial Management, New York*
+* ### Python Developer Intern, *Transcendence Captial Management, New York*
 June 2018 – Aug 2018
 <br>
 
