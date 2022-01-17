@@ -53,6 +53,10 @@
 
 ## Work Experiences
 
+* ### Electro-Acosustic Engineer, *Eargo Inc., San Jose, CA*
+Aug 2020 - Present
+<br>
+
 * ### Summer Acoustic Consultant, *Longman Lindsey, New York*
 May 2019 - Aug 2019
 <br>
